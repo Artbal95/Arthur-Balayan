@@ -2,7 +2,8 @@
 <h3 align="center">A FullStack Web Developer</h3>
 
 # 💫 About Me:
-🔭 I am deeply committed to my work and continually strive for<br>improvement. My passion for coding began when I first started working<br>with computers. Since 2017, I have been immersed in web<br>development, which I find immensely rewarding. I am enthusiastic<br>about learning new skills and eagerly apply my knowledge to engaging<br>and innovative projects. Notably, I possess extensive experience in<br>handling projects from their initial stages to successful completion,<br>overseeing all aspects of development to ensure cohesive and efficient<br>progress.
+🔭 I am deeply committed to my work and continually strive for improvement. My passion for coding began when I first started working with computers.<br>
+Since 2017, I have been immersed in web development, which I find immensely rewarding. I am enthusiasticabout learning new skills and eagerly apply my knowledge to engaging and innovative projects. Notably, I possess extensive experience in handling projects from their initial stages to successful completion, overseeing all aspects of development to ensure cohesive and efficient progress.
 
 
 ## 🌐 Socials:
