@@ -2,8 +2,19 @@
 <h3 align="center">A FullStack Web Developer</h3>
 
 # 💫 About Me:
-🔭 I am deeply committed to my work and continually strive for improvement. My passion for coding began when I first started working with computers.<br>
-Since 2017, I have been immersed in web development, which I find immensely rewarding. I am enthusiasticabout learning new skills and eagerly apply my knowledge to engaging and innovative projects. Notably, I possess extensive experience in handling projects from their initial stages to successful completion, overseeing all aspects of development to ensure cohesive and efficient progress.
+🔭 I am passionate about my profession and always strive for growth. I started learning web development in 2017
+and since then have been working on interesting, innovative projects, constantly mastering new technologies
+and industry best practices. In the course of my work, I have also become interested in Python and the Django
+framework, exploring their capabilities for web development.
+I have extensive experience in designing the architecture of Frontend applications. In recent years, I began
+developing my own architecture based on React, which is a hybrid of the DDD (Domain-Driven Design), FSD
+(Feature-Sliced Design), and Atomic Design approaches — aimed at creating scalable and maintainable
+projects.
+I have acted as a Team Lead and mentor, helping colleagues grow, sharing knowledge, and contributing to
+team development. I know how to build effective communication, take responsibility for results, and control all
+stages of development — from idea to successful release.
+I am result-oriented, able to organize a team, find solutions for complex tasks, and focus on achieving business
+goals.
 
 
 ## 🌐 Socials:
