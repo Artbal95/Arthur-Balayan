@@ -1,18 +1,18 @@
-<p style="text-align: center;">
+<p align="center">
   🌍 Languages:
   <a href="./README.md">English</a> |
   <a href="./README.ru.md">Русский</a>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   <img alt="position" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Arthur%20Balayan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20Developer%20%7C%20React%20%7C%20Team%20Lead&descAlignY=55&descAlign=50"/>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   <img alt="stack" src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=24&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;React+%2F+Next.js;Architecture;Team+Lead+%26+Mentor"/>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="mailto:arthurbalwork66@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Email-arthurbalwork66%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
