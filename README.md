@@ -1,38 +1,316 @@
-<h1 align="center">Hi 👋, I'm Arthur Balayan</h1>
-<h3 align="center">A FullStack Web Developer</h3>
+<p style="text-align: center;">
+  🌍 Languages:
+  <a href="./README.md">English</a> |
+  <a href="./README.ru.md">Русский</a>
+</p>
 
-# 💫 About Me:
-🔭 I am passionate about my profession and always strive for growth. I started learning web development in 2017
-and since then have been working on interesting, innovative projects, constantly mastering new technologies
-and industry best practices. In the course of my work, I have also become interested in Python and the Django
-framework, exploring their capabilities for web development.
-I have extensive experience in designing the architecture of Frontend applications. In recent years, I began
-developing my own architecture based on React, which is a hybrid of the DDD (Domain-Driven Design), FSD
-(Feature-Sliced Design), and Atomic Design approaches — aimed at creating scalable and maintainable
-projects.
-I have acted as a Team Lead and mentor, helping colleagues grow, sharing knowledge, and contributing to
-team development. I know how to build effective communication, take responsibility for results, and control all
-stages of development — from idea to successful release.
-I am result-oriented, able to organize a team, find solutions for complex tasks, and focus on achieving business
-goals.
+<p style="text-align: center;">
+  <img alt="position" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Arthur%20Balayan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20Developer%20%7C%20React%20%7C%20Team%20Lead&descAlignY=55&descAlign=50"/>
+</p>
 
+<p style="text-align: center;">
+  <img alt="stack" src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=24&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;React+%2F+Next.js;Architecture;Team+Lead+%26+Mentor"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/artur.balayan.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthur_balayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-balayan-30419b1a3/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Artbal95&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artbal95&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Artbal95&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Artbal95&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p style="text-align: center;">
+  <a href="mailto:arthurbalwork66@gmail.com">
+    <img alt="email" src="https://img.shields.io/badge/Email-arthurbalwork66%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ArthurBalayan66">
+    <img alt="telegram" src="https://img.shields.io/badge/Telegram-@ArthurBalayan66-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <img alt="location" src="https://img.shields.io/badge/Location-Moscow%2C%20Russia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Artbal95&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hi, I'm Arthur Balayan
+
+**Senior Frontend Developer (React) | Software Engineer | Team Lead**
+
+---
+
+## 🚀 About Me
+
+I am a passionate Software Engineer with a strong focus on frontend development and scalable application architecture.
+
+I started my journey in web development in 2017 and since then have been working on diverse and innovative projects, continuously improving my technical skills and following modern industry best practices.
+
+Over time, I also became interested in backend development, particularly Python and Django, which helped me better understand full-cycle product development.
+
+I have extensive experience in designing and evolving frontend architecture. In recent years, I developed my own architectural approach based on a combination of:
+
+- Domain-Driven Design (DDD)
+- Feature-Sliced Design (FSD)
+- Atomic Design
+
+This approach helps me build scalable, maintainable, and business-oriented applications.
+
+I also have experience as a Team Lead and mentor, where I help developers grow, improve team processes, and ensure smooth delivery from idea to production.
+
+I am focused on results, strong team communication, and solving complex engineering problems with clean and efficient solutions.
+
+---
+
+---
+
+## 🧠 Skills
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=00C6FF&width=435&lines=Frontend+(Core+Stack))](https://git.io/typing-svg)
+
+* HTML, CSS, SASS/LESS
+* JavaScript (ES6+), TypeScript
+* React, Preact
+* Next.js (SSR, CSR, SSG)
+* Redux, RTK, Zustand
+* GraphQL, Apollo, RTK Query
+* Axios, Fetch API
+* React Hook Form, Yup
+* TanStack (React Query, TanStack Table)
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=1B25FF&width=435&lines=UI+%2F+Styling)](https://git.io/typing-svg)
+
+* Responsive design, Cross-browser development
+* Tailwind CSS
+* Material UI
+* Ant Design
+* Chakra UI
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=8B5CF6&width=435&lines=Data+Visualization)](https://git.io/typing-svg)
+
+* TanStack Table
+* Recharts, ApexCharts, Highcharts
+* Chart.js, ECharts (optional/advanced)
+* DataGrid (MUI / AG Grid)
+* Performance optimization for large datasets
+* Real-time dashboard visualization (WebSockets)
+* Virtualization (react-window / react-virtualized)
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=F59E0B&width=435&lines=Testing)](https://git.io/typing-svg)
+
+* Jest
+* React Testing Library
+* Playwright
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=22C55E&width=435&lines=Backend)](https://git.io/typing-svg)
+
+* Node.js, Express.js
+* NestJS
+* REST API, GraphQL
+* MySQL, PostgreSQL, SQLite, MongoDB
+* TypeORM
+* Authentication: JWT, OAuth
+* WebSockets
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=EF4444&width=435&lines=DevOps+%26+Tools)](https://git.io/typing-svg)
+
+* Git, GitHub, GitLab, Bitbucket
+* CI/CD (GitHub Actions, Azure DevOps)
+* Docker
+* Linux, Bash
+* Swagger, Postman
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=5000&color=F97316&width=435&lines=Architecture+%26+Leadership)](https://git.io/typing-svg)
+
+* Frontend архитектура
+* Опыт Team Lead
+* Менторство / коучинг
+* Agile / Scrum
+* Storybook
+* Figma
+* DevOps практики
+
+---
+
+## 💼 Work Experience
+
+### 🧑‍💻 ITBuildGroup — *Software Engineer / Team Lead*
+📅 2024 – Present
+
+Led a frontend team as a Senior Frontend Developer and Team Lead, responsible for architecture design, project setup, and delivery of scalable web applications.
+
+Designed and implemented the initial architecture for multiple applications, focusing on scalability, maintainability, and performance. Configured modern build tooling (Vite) and established development standards across projects.
+
+### Key Responsibilities & Achievements
+
+- Led frontend development team and coordinated cross-functional collaboration with backend engineers, designers, and product managers
+- Designed and implemented frontend architecture for new applications
+- Performed project and build optimization, improving development efficiency and performance
+- Configured and maintained build tooling (Vite) and development workflows
+- Conducted code reviews and mentored junior developers
+
+### Key Features Delivered
+
+- Implemented social authentication (Telegram, Discord, Google, etc.)
+- Built real-time chat systems from scratch (group and private messaging)
+- Developed and integrated cryptocurrency wallet functionality
+- Implemented Excel file processing for large-scale transaction handling
+- Designed and developed internal reusable UI component library
+
+### Technologies
+
+React, Preact, Next.js, TypeScript, React Router, Zustand, Axios, Orval, Vite, Nginx, Playwright, Tailwind CSS, ESLint, Prettier, Pre-commit hooks
+
+---
+
+### 💻 Sembly AI — *Middle+ Frontend Developer*
+📅 2023 – 2024
+
+Worked on complex frontend systems and scalable UI architecture in a product-focused team using React ecosystem.
+
+Contributed to the development of large-scale interfaces and internal tooling, focusing on reusability, maintainability, and integration with external services.
+
+### Key Responsibilities & Achievements
+
+- Developed complex UI features using React, TypeScript, React Router, Apollo, and Vite
+- Designed and implemented a custom UI kit based on Material UI for scalable and consistent interface development
+- Built an internal component and service library shared across multiple products, published as a private npm package
+- Developed and maintained a browser extension integrated with external APIs and services
+- Implemented OAuth authentication and integrations with Google Calendar, Slack, and other external platforms
+- Improved code quality standards across the team through reviews and engineering guidelines
+
+### Impact
+
+- Increased code reuse across multiple products through shared component library
+- Improved integration capabilities with external services via standardized OAuth flows
+- Strengthened frontend architecture consistency through reusable UI system
+- Contributed to higher code quality and maintainability across the team
+
+### Technologies
+
+React, TypeScript, React Router, GraphQL, Apollo, Vite, Vitest, Material UI, OAuth, Browser Extensions, npm, ESLint, Prettier
+
+---
+
+### 📊 WB Helper — *Middle Frontend Developer*
+📅 2022 – 2023
+
+Built a product from scratch for managing advertising campaigns on the Wildberries marketplace, taking ownership of frontend development and collaborating closely with product stakeholders.
+
+Participated in product discovery and business analysis together with the product manager, helping shape requirements and interface design.
+
+### Key Responsibilities & Achievements
+
+- Designed and developed the frontend application architecture from the ground up
+- Built complex UI components and dynamic forms using React, TypeScript, Redux, and Material UI
+- Implemented advanced form logic including field dependencies and validation using React Hook Form and Yup
+- Developed a marketing landing page using Next.js and Tailwind CSS
+- Collaborated with product management on business requirements and UX decisions
+- Delivered the full product to production within a short development cycle
+
+### Technologies
+
+Next.js, React, TypeScript, React Router, RTK Query, React Hook Form, Yup, Webpack, Material UI, Tailwind CSS
+
+---
+
+### 🧪 Kiwi Science — *Fullstack Developer*
+📅 2020 – 2022
+
+Worked in an outsourcing company that also developed its own internal product. Contributed to multiple applications, with a primary focus on the company’s core crypto-related product.
+
+Worked as a Fullstack Developer using React and NestJS, contributing to both frontend and backend development, performance optimization, and feature delivery.
+
+### Key Responsibilities & Achievements
+
+- Developed a cryptocurrency asset tracking web application with exchange integrations
+- Implemented Web3 wallet integration (e.g., MetaMask) for blockchain-based authentication and data access
+- Built real-time data visualization dashboards using Recharts and ApexCharts
+- Contributed to backend and frontend architecture improvements and refactoring
+- Improved code quality and maintainability using ESLint and Prettier
+
+### Performance & Optimization
+
+**Frontend:**
+- Optimized bundle size using Webpack configuration
+- Implemented code splitting and improved page load performance
+- Enhanced user experience through performance tuning and rendering optimizations
+
+**Backend:**
+- Implemented caching strategies to reduce database load
+- Optimized database queries using indexing and intermediate tables
+- Documented APIs using Swagger, improving maintainability and reducing integration overhead
+
+### Additional Experience
+
+- Developed interactive UI features (menus, sliders, animations) using pure HTML and CSS without JavaScript in certain projects
+- Supported cross-functional development across multiple applications in the company
+
+### Technologies
+
+TypeScript, React, Angular, Node.js, NestJS, Express, Redux, React Router, Axios, MySQL, PostgreSQL, MariaDB, MongoDB, JWT, Passport, Web3, MetaMask, Swagger, Chakra UI, HTML, CSS, Bitbucket
+
+### 🧪 Increment Resourcing Center — *Fullstack Instructor*
+📅 2019
+
+Worked as an instructor, teaching foundational and advanced frontend and backend development topics to students. Focused on building strong practical understanding of modern web development and guiding students through real project implementation.
+
+Designed and conducted lessons covering both theory and hands-on practice, helping students transition from basics to building full applications.
+
+### Key Responsibilities & Achievements
+
+- Taught HTML, CSS, JavaScript, React, and Node.js (Express)
+- Explained complex technical concepts in a simple and structured way
+- Guided students through building academic and practical projects
+- Supervised project development and code quality
+- Helped students understand both frontend and backend architecture principles
+- Conducted sessions on modern React patterns (Class & Functional Components)
+
+### Technologies
+
+HTML, CSS, LESS/SASS/SCSS, JavaScript, React (Class Components, Functional Components), Node.js, Express
+
+### 🧪 Increment Resourcing Center — *Frontend Instructor*
+📅 2018
+
+Taught frontend development fundamentals to students, focusing on practical skills in layout building and JavaScript programming.
+
+Supported students during their learning process by explaining core concepts, assisting with assignments, and guiding them through academic projects.
+
+### Key Responsibilities
+
+- Taught HTML, CSS, and JavaScript fundamentals
+- Explored layout development and responsive design principles
+- Assisted students with practical coding tasks and exercises
+- Answered technical questions and provided mentorship during projects
+- Supported students in completing academic frontend projects
+
+### Technologies
+
+HTML, CSS, LESS/SASS/SCSS, JavaScript
+
+---
+
+## 🎓 Education
+
+### Movses Khorenatsi University
+📅 2019 – 2022  
+Bachelor’s degree in Computer Science and Applied Mathematics  
+🏆 Graduated with honors (Red Diploma)
+
+### Increment Resourcing Center
+📅 2017  
+Full-Stack Development Certificate
+
+### Yerevan State University
+📅 2012 – 2017  
+Bachelor’s degree in Sociology
+
+---
+
+## 🌍 Languages
+
+- Armenian — Native
+- Russian — Fluent
+- English — Intermediate
+
+---
+
+## 🤝 Contact Me
+
+- Telegram: https://t.me/ArthurBalayan66
+- Email: arthurbalwork66@gmail.com
+
+---
+
+⭐️ *Open to interesting opportunities and collaborations*
