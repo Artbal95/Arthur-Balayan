@@ -124,7 +124,7 @@
 
 ### 🧑‍💻 ITBuildGroup — *Software Engineer / Team Lead*
 
-📅 2024 – настоящее время
+📅 2024 – 2026
 
 Руководил frontend-командой как Senior Frontend Developer и Team Lead, отвечая за архитектуру, настройку проектов и доставку масштабируемых приложений.
 
