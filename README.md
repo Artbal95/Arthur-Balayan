@@ -125,7 +125,7 @@ I am focused on results, strong team communication, and solving complex engineer
 ## 💼 Work Experience
 
 ### 🧑‍💻 ITBuildGroup — *Software Engineer / Team Lead*
-📅 2024 – Present
+📅 2024 – 2026
 
 Led a frontend team as a Senior Frontend Developer and Team Lead, responsible for architecture design, project setup, and delivery of scalable web applications.
 
